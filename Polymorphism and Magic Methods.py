@@ -108,3 +108,6 @@ print(student.rate_lecturer(lecturer, 'С++', 8))  # Ошибка
 print(student.rate_lecturer(reviewer, 'Python', 6))  # Ошибка
 
 print(lecturer.grades)  # {'Python': [7]}
+
+
+
